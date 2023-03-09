@@ -80,6 +80,7 @@ class GenealogicalTree {
     }
 }
 
+
 class ResearchComponent {
     private GenealogicalTree tree;
 
